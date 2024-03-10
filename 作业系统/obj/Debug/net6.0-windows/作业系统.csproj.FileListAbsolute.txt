@@ -1,0 +1,17 @@
+D:\Desktop\一个C#\作业系统\bin\Debug\net6.0-windows\作业系统.exe
+D:\Desktop\一个C#\作业系统\bin\Debug\net6.0-windows\作业系统.deps.json
+D:\Desktop\一个C#\作业系统\bin\Debug\net6.0-windows\作业系统.runtimeconfig.json
+D:\Desktop\一个C#\作业系统\bin\Debug\net6.0-windows\作业系统.dll
+D:\Desktop\一个C#\作业系统\bin\Debug\net6.0-windows\作业系统.pdb
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\作业系统.Form1.resources
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\作业系统.Form2.resources
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\作业系统.csproj.GenerateResource.cache
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\作业系统.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\作业系统.AssemblyInfoInputs.cache
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\作业系统.AssemblyInfo.cs
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\作业系统.csproj.CoreCompileInputs.cache
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\作业系统.dll
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\refint\作业系统.dll
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\作业系统.pdb
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\作业系统.genruntimeconfig.cache
+D:\Desktop\一个C#\作业系统\obj\Debug\net6.0-windows\ref\作业系统.dll

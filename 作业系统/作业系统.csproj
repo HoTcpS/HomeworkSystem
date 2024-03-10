@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0-windows\ZYX_HomeworkSystem\eula.txt" />
+    <Content Include="bin\Debug\net6.0-windows\作业系统.deps.json" />
+    <Content Include="bin\Debug\net6.0-windows\作业系统.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0-windows\ZYX_HomeworkSystem\classes\class1.cl" />
+    <None Include="bin\Debug\net6.0-windows\ZYX_HomeworkSystem\classes\class2.cl" />
+    <None Include="bin\Debug\net6.0-windows\ZYX_HomeworkSystem\classes\class3.cl" />
+    <None Include="bin\Debug\net6.0-windows\ZYX_HomeworkSystem\classes\class4.cl" />
+    <None Include="bin\Debug\net6.0-windows\ZYX_HomeworkSystem\classes\class5.cl" />
+    <None Include="bin\Debug\net6.0-windows\ZYX_HomeworkSystem\classes\now.cl" />
+    <None Include="bin\Debug\net6.0-windows\作业系统.dll" />
+    <None Include="bin\Debug\net6.0-windows\作业系统.exe" />
+    <None Include="bin\Debug\net6.0-windows\作业系统.pdb" />
+  </ItemGroup>
+
+</Project>
